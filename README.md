@@ -1,7 +1,8 @@
-Deedy-Resume
+PKG-Resume
 =========================
 
-A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
+A **two-page**, **two asymmetric column** resume template in **XeTeX** built on top of [Deedy-Resume](https://github.com/deedydas/Deedy-Resume). This template is designed for **senior engineers and above** who have extensive experience across multiple teams and companies.
+
 As of **v1.2**, there is an option to choose from two templates:
 
 1. **MacFonts** - uses fonts native to OSX - *Helvetica*, *Helvetica Neue* (and it's Light and Ultralight versions) and the CJK fonts *Heiti SC*, and *Heiti TC*. The EULA of these fonts prevents distribution on Open Source.
@@ -9,19 +10,26 @@ As of **v1.2**, there is an option to choose from two templates:
 
 It is licensed under the Apache License 2.0.
 
+## Why this resume format is important?
+
+1. **Senior engineer and above** who have worked across multiple teams/companies and have a lot to mention in their resume.
+2. **Showing soft-skills and leadership experience** - The two-page format allows you to highlight leadership roles, mentoring experience, and cross-functional collaboration.
+3. **Showing personal project / portfolio with links** - Dedicated space to showcase your personal projects, open-source contributions, and portfolio links.
+4. **Adding logos for tech you worked on** to make it easily be understood by HR team (optional but advantageous) - Visual tech stack representation helps HR quickly identify relevant skills.
+
 ## Motivation
 
 Common LaTeX resume-builders such as [**moderncv**](http://www.latextemplates.com/template/moderncv-cv-and-cover-letter)  and the [**friggeri-cv**](https://github.com/afriggeri/cv) look great if you're looking for a multi-page resume with numerous citations, but usually imperfect for making a thorough, single-page one. A lot of companies today search resumes based on [keywords](http://www.businessinsider.com/most-big-companies-have-a-tracking-system-that-scans-your-resume-for-keywords-2012-1) but at the same time require/prefer a one-page resume, especially for undergraduates. 
 
-This template attempts to **look clean**, highlight **details**, be a **single page**, and allow useful **LaTeX templating**.
+This template attempts to **look clean**, highlight **details**, be a **two-page format** suitable for experienced professionals, and allow useful **LaTeX templating**.
 
 ## Preview
 
-### OpenFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/OpenFonts/sample-image.png)
+### First Page
+![First Page](images/1st_page.png)
 
-### MacFonts
-![alt tag](https://raw.githubusercontent.com/deedydas/Deedy-Resume/master/MacFonts/sample-image.png)
+### Second Page
+![Second Page](images/2nd_page.png)
 
 ## Dependencies
 
@@ -63,10 +71,11 @@ This template attempts to **look clean**, highlight **details**, be a **single p
 
 ## License
     Copyright 2014 Debarghya Das
+    Modified by Prabhat Gupta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
+    you may obtain a copy of the License at
 
        http://www.apache.org/licenses/LICENSE-2.0
 
