@@ -85,7 +85,7 @@ This template attempts to **look clean**, highlight **details**, be a **two-page
 
 This project is built on top of [Deedy-Resume](https://github.com/deedydas/Deedy-Resume) by Debarghya Das.
 
-    Copyright 2025 Prabhat Gupta
+    Copyright 2026 Prabhat Gupta
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
